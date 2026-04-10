@@ -1,0 +1,5 @@
+asset_tag,display_name,seriennummer,asset_status,ablauf_der_garantie,abteilung
+AT-001,Asset A,SN-123456,Active,2027-04-10,IT
+AT-002,Asset B,SN-654321,Inactive,2025-09-15,HR
+AT-003,Asset C,SN-987654,Active,2028-01-01,Finance
+AT-004,Asset D,SN-135792,Inactive,2026-11-30,Marketing
