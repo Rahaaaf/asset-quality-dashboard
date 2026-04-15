@@ -1,5 +1,5 @@
- Asset Quality Dashboard
-<img width="747" height="500" alt="Screenshot 2026-04-15 095805" src="https://github.com/user-attachments/assets/7c399a94-3f67-499c-8e54-27cf442925ba" />
+##Asset Quality Dashboard
+<img width="747" height="300" alt="Screenshot 2026-04-15 095805" src="https://github.com/user-attachments/assets/7c399a94-3f67-499c-8e54-27cf442925ba" />
 
 Interaktives Analyse-Dashboard zur automatischen Erkennung und Visualisierung von Datenqualitätsproblemen in IT-Asset-Datensätzen.
 
